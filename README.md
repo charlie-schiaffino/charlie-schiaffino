@@ -7,7 +7,6 @@ If you need anything, just let me know and contact me for further information.
 
 - 👀 I'm interested in movies and anime most likely...
 - 🌱 I'm currently learning React > Node.js to implement it on this backend forum engine asap.
-- 💞️ No worries but im currently not looking to collaborate with anyone.
 - 📫 You can reach me at caschiaffino@gmail.com
 
 
