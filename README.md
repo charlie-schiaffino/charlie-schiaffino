@@ -8,7 +8,3 @@ If you need anything, just let me know and contact me for further information.
 - 👀 I'm interested in movies and anime most likely...
 - 🌱 I'm currently learning React > Node.js to implement it on this backend forum engine asap.
 - 📫 You can reach me at caschiaffino@gmail.com
-
-
-![](https://emoji.slack-edge.com/T04DMF037/pepeasalto/2844c477943b10a4.png)
-![](https://emoji.slack-edge.com/T04DMF037/peepixel/87425173e209069f.png)
